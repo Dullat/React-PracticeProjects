@@ -1,2 +1,3 @@
 # React-PracticeProjects
-More projects for solid understanding
+
+tic tac toe using react
